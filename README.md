@@ -19,7 +19,7 @@ This is a sample application using PHP and Symfony.
 - Clone the repo.
 - Install docker and docker compose.
 - Run "docker-compose up -d" from the project directory.
-- composer update
+- composer install
 - GET http://localhost:8080/results
 
 Author:
